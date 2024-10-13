@@ -1,0 +1,17 @@
+workshop
+
+nuxt.js
+
+1.download and install node.js
+
+npm install -g npx
+
+2.https://chatgpt.com/share/2cf4a962-8dc6-4624-8d9a-cb808c408a83
+
+
+after create project
+    cd online-catalog
+    npm run dev (open server)
+
+for mockup data
+https://www.mockaroo.com/
