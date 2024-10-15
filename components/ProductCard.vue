@@ -4,7 +4,8 @@
     <h3>{{ product.title }}</h3>
     <p>Price: {{ product.price }}</p>
     <p>In Stock: {{ product.stock }}</p>
-    <nuxt-link :to="`/product/${product.id}`">View Details</nuxt-link>
+    <p>documentId: {{ product.documentId }}</p>
+    <nuxt-link :to="`/product/${product.documentId}`">View Details</nuxt-link>
   </div>
 </template>
 

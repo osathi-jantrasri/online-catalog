@@ -1,6 +1,6 @@
 <template>
   <div class="product-details">
-    <img :src="product.bigImage" alt="Product Image" />
+    <img :src="product.image" alt="Product Image" />
     <h1>{{ product.title }}</h1>
     <p>{{ product.description }}</p>
     <p>Price: {{ product.price }}</p>
